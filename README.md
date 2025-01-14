@@ -16,3 +16,6 @@ This project involves analyzing the Bike Buyers Dataset using Excel to uncover i
  - Summary statistics and detailed analysis.
  - Visualizations highlighting significant trends and insights.
  - A report summarizing key findings and recommendations.
+
+## Bike Sales Dashboard
+![Bike_Buyers_Dashboard](https://github.com/user-attachments/assets/8179f42d-8946-4dd8-88d7-b5d87175a35a)
