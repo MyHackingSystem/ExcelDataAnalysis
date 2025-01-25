@@ -1,6 +1,6 @@
 # Bike Buyers Dataset Analytics
 
-This project involves analyzing the Bike Buyers Dataset using Excel to uncover insights and trends related to customer behavior and factors influencing bike purchases.
+Analyzed the Bike Buyers Dataset using Excel to uncover insights and trends related to customer behavior and factors influencing bike purchases.
 
 ## Objectives
  - Clean and preprocess the dataset for analysis.
